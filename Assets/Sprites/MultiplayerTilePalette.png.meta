@@ -1,0 +1,2157 @@
+fileFormatVersion: 2
+guid: f69a68e685a58124b9228fbf7a72edf9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 132
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1474
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00defda556506144da6afc8656b82904
+      internalID: 894047225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1474
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5743c9a6be3a1f4b9cbb3778f63faac
+      internalID: 1002395018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1474
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72de5023ee10bb46a4a8bbe936544e3
+      internalID: 233923783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1474
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765f40842a0df7847ba5b6ce58761e7b
+      internalID: -748168369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_5
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1474
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cad47805866924f8198b28ee269b88
+      internalID: -1923239310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_6
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1474
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1c7e4fe157fa745bec3d36a48904f5
+      internalID: -1123232363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_8
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1474
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a200b432c248b56419fdcfe270e1c3e8
+      internalID: -1390776452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_10
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1474
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38455b1a666b3c647a4b12bdc9b2b60c
+      internalID: 1912395518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_12
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1474
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8894363ca4a574ca8c8540c29485c5
+      internalID: -304583003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1376
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01a932a4ae4e9147a9efa6c7693149a
+      internalID: -833332337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1376
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c3460638ee5e04eb6775903292ca20
+      internalID: -605465986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1376
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ef3094ab262ea4bb50fcfd1b1633f6
+      internalID: 581121694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_19
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1376
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfa2a678155ca34d88a2b1b30a50243
+      internalID: 919541179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_20
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1376
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acf9b3c0f825ed4bbb0a83b53438111
+      internalID: -269465702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_21
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1376
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f60a10181f302743a84ae0db9d27f15
+      internalID: 1109919327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_24
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1376
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130b5d281043a2e4a8d6e40577da6774
+      internalID: 339897849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_26
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1376
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974b29caeff859c4cb79e5974ff367ec
+      internalID: -182435533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1278
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf15ccaeec077142b3055ee08e212c3
+      internalID: -265511976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1278
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd55154c8b4b7242a045a9d74d02e33
+      internalID: 1369235664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_31
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1278
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9998f808799cd1f429b3fa6867b42426
+      internalID: 1716294318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_33
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1278
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6fbdabbebbd7145bafb60956fd57c5
+      internalID: 1177358565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_34
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1278
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48119c87d3bd2464e8b7aedec4e3c536
+      internalID: 1566185587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_35
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1278
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d29ff66d87f3184da5b41cf9f151ed0
+      internalID: -187011852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_52
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1180
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e910ed4d07c94440a9c92934ff51376
+      internalID: -1828150414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_54
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1180
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b4c63715bdf9640bf4c65556506bed
+      internalID: -1848250528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1082
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb77d7e381a2a2d4587577713aef5da9
+      internalID: -1061858555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_59
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1082
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50784d5c1c87fbb4e8324e9f871e2246
+      internalID: -1113262002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_60
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1082
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516d2926ccfb2eb469fb1d8dc632e379
+      internalID: -1252873713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_62
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1082
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f89ebdb8c86fb419b9cee4de75a1e8
+      internalID: 1432835387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_63
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1082
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a285a42aafd711644adc62dbdce66817
+      internalID: -2040905887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_64
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1082
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d061abac0e50754cb840e6d4882fbdf
+      internalID: -1108598630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_66
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1082
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d1c93812958b24e821b550e6ab3adc
+      internalID: 1069335470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_68
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1082
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905fe0f6d3d7eb944b4420ae5dbc4473
+      internalID: -1701544647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_70
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1082
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec413b2e7802f544856a432a0a61c9f
+      internalID: 2011131788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_71
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1082
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af0525c45662bd449f32b3b107147a2
+      internalID: 569822511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_73
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 984
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746d6ead866bcd548b47ce2030b7554d
+      internalID: 1031092640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_74
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 984
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85500027bce2c80438b2e9ae424bbff2
+      internalID: -1271076320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_75
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 984
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a0a4234ed8c8a42ad4da58938072e6
+      internalID: -1084349406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_77
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 984
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82b29acae66ea345b1fa07c2077dbbc
+      internalID: 97302087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_78
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 984
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddee16d9970d1e842a7653cdbcc50abc
+      internalID: 1285102897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_79
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 984
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be058ca18626daf4a9efe7f6513d136f
+      internalID: 1715677656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_85
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 886
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf18f3d6d3e7df94fb57416be7c89d64
+      internalID: -1837818268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_86
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 886
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df25c3c9851709d47b100480b1124d9b
+      internalID: 593563625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_87
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 886
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9de839d5bc5444e9fd688809c1dcfe
+      internalID: -276170053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_89
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 886
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fe47b3ea90878408412aeb9f065829
+      internalID: -687347028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_90
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 886
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3360ab8188165dd4ca9ea670b66e300b
+      internalID: -527567144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_91
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 886
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f49ffedbf022e749a4931363069396f
+      internalID: -1393627886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_93
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 886
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88493179eb4c6c45830464916dfe72a
+      internalID: -1020863590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_95
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 886
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dfa4ca135336d4194667073c186245
+      internalID: -1150717649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_106
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 788
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859aef13cf0014b4e9a2c0f6ab140df3
+      internalID: -1518787176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_107
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 788
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecc1f047ed45ff459a43ed8d8dc1e47
+      internalID: 1865188712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_109
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 788
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9f96788bb8a8347a9e9d2902d750cf
+      internalID: -1309958557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_110
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 788
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6689edcdf39b8904da75f3f6846eefcd
+      internalID: -1176129416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_114
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 690
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63c0b0725c4fbb4b9f69fe2cd950385
+      internalID: -184292811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_115
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 690
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e23b6823a8807140af7eda207e64ca1
+      internalID: 1298250516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_116
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 690
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84fe5756a29991428b4395963f19e60
+      internalID: -1382154084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_129
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 592
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e126851519c63f641af4dc8d308d8ef7
+      internalID: -1585389695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_131
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 592
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5473d3439ee4ae244ac1eaeab542090b
+      internalID: 816810535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_132
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 592
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4fb95215ac4a24faf2585a051b6b8e
+      internalID: 559781632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_134
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 592
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a51cf20a8980ce4cbf19a7e25ca2406
+      internalID: 705742048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_135
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 592
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bfad0d2205cd845a9490ea971ea268
+      internalID: 327918085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_139
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 494
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2660e07cb64b447b6ec82dcdc637c1
+      internalID: 740980286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_140
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 494
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77347840af561014fbd2dd5059d214ed
+      internalID: 417105935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_141
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 494
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8773f5fd3f0c01c409c496be2202e0c8
+      internalID: 1433344081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_143
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 494
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c60592ada36ba745828b81e27fd46b5
+      internalID: -2062936792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_146
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 494
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7b9271fa37ddc44a7ff2d2327fb66e
+      internalID: 1236355326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_154
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 298
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05f89ddbdf69f540ae31ed6d852209a
+      internalID: 365613932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_155
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 298
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9cd29dba82a054d92574ce0283f301
+      internalID: 258650766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_156
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 298
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea69b40cbd526b46ae52e6fe5365a86
+      internalID: 1295060513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_157
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 298
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050b7036f7c2764449d8080185a4c368
+      internalID: 341688979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_170
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 200
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb833d074878e29468e08567e843581a
+      internalID: 1146878872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_171
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 200
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1caac8d8d29847a488c3cdabd56ebfaa
+      internalID: 977576725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_172
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 200
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d1cc0b304f8f942aa15a8ed45ee118
+      internalID: -1740961770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_173
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 200
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccf344d1089ca3408bd5fad3d95673c
+      internalID: -1228490438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_185
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 102
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fed759052dd9374dad8d1911771c550
+      internalID: 1975950165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_186
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 102
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ca6088a6806854ba18e26adee5fd26
+      internalID: -258612241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_187
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 102
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e75cb9d5ed599429f8037a7d4409f8
+      internalID: -1529867914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_188
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 102
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71aad3d78810a64e80f710afc252cf2
+      internalID: 421212263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_3
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1340
+        width: 92
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cc5c05517d0e54489a80b2051a3e63
+      internalID: 730563259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_7
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1111
+        width: 91
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e442462eec99e1a4ea47220db42e1152
+      internalID: 146018229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_9
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 688
+        width: 197
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7c98e82685ae84f9d01f135d3794a1
+      internalID: -1555116640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_11
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 0
+        width: 295
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c508cd316b1730647abc149b53a41a8c
+      internalID: -741785148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_13
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 0
+        width: 295
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71546afae12a5a64cb52cead947ca026
+      internalID: 1079295072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_14
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 295
+        width: 295
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0af2be8c922c4c4da78fc7937fd402a
+      internalID: 1258984412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_18
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 197
+        width: 295
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff1e1fbf889f834aad523114f6409e3
+      internalID: -539270535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiplayerTilePalette_22
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 99
+        width: 295
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8029c6c020bb3a47be0252d4f56ef73
+      internalID: -1472986834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MultiplayerTilePalette_0: 894047225
+      MultiplayerTilePalette_1: 1002395018
+      MultiplayerTilePalette_10: 1912395518
+      MultiplayerTilePalette_100: -496816766
+      MultiplayerTilePalette_101: 1771948594
+      MultiplayerTilePalette_102: 551249064
+      MultiplayerTilePalette_103: -1398913763
+      MultiplayerTilePalette_104: 1250217495
+      MultiplayerTilePalette_105: -1629687104
+      MultiplayerTilePalette_106: -1518787176
+      MultiplayerTilePalette_107: 1865188712
+      MultiplayerTilePalette_108: -1577056648
+      MultiplayerTilePalette_109: -1309958557
+      MultiplayerTilePalette_11: -741785148
+      MultiplayerTilePalette_110: -1176129416
+      MultiplayerTilePalette_111: -1016726731
+      MultiplayerTilePalette_112: 741059146
+      MultiplayerTilePalette_113: -984999477
+      MultiplayerTilePalette_114: -184292811
+      MultiplayerTilePalette_115: 1298250516
+      MultiplayerTilePalette_116: -1382154084
+      MultiplayerTilePalette_117: 706771507
+      MultiplayerTilePalette_118: -1435071705
+      MultiplayerTilePalette_119: -1680802902
+      MultiplayerTilePalette_12: -304583003
+      MultiplayerTilePalette_120: 2049429467
+      MultiplayerTilePalette_121: 841201261
+      MultiplayerTilePalette_122: -1754165237
+      MultiplayerTilePalette_123: -696833525
+      MultiplayerTilePalette_124: -1112412176
+      MultiplayerTilePalette_125: -200054012
+      MultiplayerTilePalette_126: -552302530
+      MultiplayerTilePalette_127: -575990950
+      MultiplayerTilePalette_128: -160399372
+      MultiplayerTilePalette_129: -1585389695
+      MultiplayerTilePalette_13: 1079295072
+      MultiplayerTilePalette_130: -1797244645
+      MultiplayerTilePalette_131: 816810535
+      MultiplayerTilePalette_132: 559781632
+      MultiplayerTilePalette_133: 1212681263
+      MultiplayerTilePalette_134: 705742048
+      MultiplayerTilePalette_135: 327918085
+      MultiplayerTilePalette_136: -1429562921
+      MultiplayerTilePalette_137: 83153256
+      MultiplayerTilePalette_138: -684386385
+      MultiplayerTilePalette_139: 740980286
+      MultiplayerTilePalette_14: 1258984412
+      MultiplayerTilePalette_140: 417105935
+      MultiplayerTilePalette_141: 1433344081
+      MultiplayerTilePalette_142: -949117550
+      MultiplayerTilePalette_143: -2062936792
+      MultiplayerTilePalette_144: 1171610371
+      MultiplayerTilePalette_145: 537799876
+      MultiplayerTilePalette_146: 1236355326
+      MultiplayerTilePalette_147: -245368478
+      MultiplayerTilePalette_148: -504758774
+      MultiplayerTilePalette_149: -498238327
+      MultiplayerTilePalette_15: -833332337
+      MultiplayerTilePalette_150: -772346807
+      MultiplayerTilePalette_151: 1998853994
+      MultiplayerTilePalette_152: -1202827487
+      MultiplayerTilePalette_153: -1627061619
+      MultiplayerTilePalette_154: 365613932
+      MultiplayerTilePalette_155: 258650766
+      MultiplayerTilePalette_156: 1295060513
+      MultiplayerTilePalette_157: 341688979
+      MultiplayerTilePalette_158: 1999875438
+      MultiplayerTilePalette_159: -410342914
+      MultiplayerTilePalette_16: -605465986
+      MultiplayerTilePalette_160: 575307507
+      MultiplayerTilePalette_161: -1856027071
+      MultiplayerTilePalette_162: 541430109
+      MultiplayerTilePalette_163: -2075478350
+      MultiplayerTilePalette_164: 1513384971
+      MultiplayerTilePalette_165: 1021159433
+      MultiplayerTilePalette_166: -1181858998
+      MultiplayerTilePalette_167: 1041880398
+      MultiplayerTilePalette_168: 17108206
+      MultiplayerTilePalette_169: -1564013352
+      MultiplayerTilePalette_17: 581121694
+      MultiplayerTilePalette_170: 1146878872
+      MultiplayerTilePalette_171: 977576725
+      MultiplayerTilePalette_172: -1740961770
+      MultiplayerTilePalette_173: -1228490438
+      MultiplayerTilePalette_174: -51351583
+      MultiplayerTilePalette_175: -1819416061
+      MultiplayerTilePalette_176: 56726254
+      MultiplayerTilePalette_177: -1007830525
+      MultiplayerTilePalette_178: -383746979
+      MultiplayerTilePalette_179: 1250562119
+      MultiplayerTilePalette_18: -539270535
+      MultiplayerTilePalette_180: 567866570
+      MultiplayerTilePalette_181: 1211311392
+      MultiplayerTilePalette_182: -29075598
+      MultiplayerTilePalette_183: 1106585321
+      MultiplayerTilePalette_184: -110565773
+      MultiplayerTilePalette_185: 1975950165
+      MultiplayerTilePalette_186: -258612241
+      MultiplayerTilePalette_187: -1529867914
+      MultiplayerTilePalette_188: 421212263
+      MultiplayerTilePalette_189: 602588493
+      MultiplayerTilePalette_19: 919541179
+      MultiplayerTilePalette_190: -1200211118
+      MultiplayerTilePalette_191: -99774547
+      MultiplayerTilePalette_192: 1574159489
+      MultiplayerTilePalette_193: -1250504622
+      MultiplayerTilePalette_194: 40735961
+      MultiplayerTilePalette_195: 32992878
+      MultiplayerTilePalette_196: 71942678
+      MultiplayerTilePalette_197: -253646800
+      MultiplayerTilePalette_198: 1147878118
+      MultiplayerTilePalette_199: -1559496819
+      MultiplayerTilePalette_2: 233923783
+      MultiplayerTilePalette_20: -269465702
+      MultiplayerTilePalette_200: -190880952
+      MultiplayerTilePalette_201: 1495369907
+      MultiplayerTilePalette_202: 1844168086
+      MultiplayerTilePalette_203: -1088181186
+      MultiplayerTilePalette_204: -2022812219
+      MultiplayerTilePalette_205: 372498154
+      MultiplayerTilePalette_206: 1473799106
+      MultiplayerTilePalette_207: 198952896
+      MultiplayerTilePalette_208: 992674633
+      MultiplayerTilePalette_209: -730095423
+      MultiplayerTilePalette_21: 1109919327
+      MultiplayerTilePalette_210: -1739384289
+      MultiplayerTilePalette_22: -1472986834
+      MultiplayerTilePalette_23: 479394078
+      MultiplayerTilePalette_24: 339897849
+      MultiplayerTilePalette_25: -1706250007
+      MultiplayerTilePalette_26: -182435533
+      MultiplayerTilePalette_27: 1397568263
+      MultiplayerTilePalette_28: 668761277
+      MultiplayerTilePalette_29: -265511976
+      MultiplayerTilePalette_3: 730563259
+      MultiplayerTilePalette_30: 1369235664
+      MultiplayerTilePalette_31: 1716294318
+      MultiplayerTilePalette_32: 1096268968
+      MultiplayerTilePalette_33: 1177358565
+      MultiplayerTilePalette_34: 1566185587
+      MultiplayerTilePalette_35: -187011852
+      MultiplayerTilePalette_36: 1295801026
+      MultiplayerTilePalette_37: 233941860
+      MultiplayerTilePalette_38: 2028431808
+      MultiplayerTilePalette_39: -754074556
+      MultiplayerTilePalette_4: -748168369
+      MultiplayerTilePalette_40: 1916637974
+      MultiplayerTilePalette_41: -340441066
+      MultiplayerTilePalette_42: -1059026214
+      MultiplayerTilePalette_43: 1235021236
+      MultiplayerTilePalette_44: 1846559371
+      MultiplayerTilePalette_45: 868384705
+      MultiplayerTilePalette_46: -591932598
+      MultiplayerTilePalette_47: -1226543049
+      MultiplayerTilePalette_48: -215652173
+      MultiplayerTilePalette_49: 1082621283
+      MultiplayerTilePalette_5: -1923239310
+      MultiplayerTilePalette_50: 633987043
+      MultiplayerTilePalette_51: 177197148
+      MultiplayerTilePalette_52: -1828150414
+      MultiplayerTilePalette_53: 1466226907
+      MultiplayerTilePalette_54: -1848250528
+      MultiplayerTilePalette_55: -1479414533
+      MultiplayerTilePalette_56: -2146981357
+      MultiplayerTilePalette_57: 2072721205
+      MultiplayerTilePalette_58: -1061858555
+      MultiplayerTilePalette_59: -1113262002
+      MultiplayerTilePalette_6: -1123232363
+      MultiplayerTilePalette_60: -1252873713
+      MultiplayerTilePalette_61: -1026986064
+      MultiplayerTilePalette_62: 1432835387
+      MultiplayerTilePalette_63: -2040905887
+      MultiplayerTilePalette_64: -1108598630
+      MultiplayerTilePalette_65: 2120844248
+      MultiplayerTilePalette_66: 1069335470
+      MultiplayerTilePalette_67: 1790226286
+      MultiplayerTilePalette_68: -1701544647
+      MultiplayerTilePalette_69: -73718061
+      MultiplayerTilePalette_7: 146018229
+      MultiplayerTilePalette_70: 2011131788
+      MultiplayerTilePalette_71: 569822511
+      MultiplayerTilePalette_72: -1303592299
+      MultiplayerTilePalette_73: 1031092640
+      MultiplayerTilePalette_74: -1271076320
+      MultiplayerTilePalette_75: -1084349406
+      MultiplayerTilePalette_76: -1989813181
+      MultiplayerTilePalette_77: 97302087
+      MultiplayerTilePalette_78: 1285102897
+      MultiplayerTilePalette_79: 1715677656
+      MultiplayerTilePalette_8: -1390776452
+      MultiplayerTilePalette_80: 40312022
+      MultiplayerTilePalette_81: -9662199
+      MultiplayerTilePalette_82: -1022601719
+      MultiplayerTilePalette_83: -1157982319
+      MultiplayerTilePalette_84: -123271347
+      MultiplayerTilePalette_85: -1837818268
+      MultiplayerTilePalette_86: 593563625
+      MultiplayerTilePalette_87: -276170053
+      MultiplayerTilePalette_88: 955703290
+      MultiplayerTilePalette_89: -687347028
+      MultiplayerTilePalette_9: -1555116640
+      MultiplayerTilePalette_90: -527567144
+      MultiplayerTilePalette_91: -1393627886
+      MultiplayerTilePalette_92: 48537104
+      MultiplayerTilePalette_93: -1020863590
+      MultiplayerTilePalette_94: 825085646
+      MultiplayerTilePalette_95: -1150717649
+      MultiplayerTilePalette_96: -1353480735
+      MultiplayerTilePalette_97: -1737945353
+      MultiplayerTilePalette_98: 134205788
+      MultiplayerTilePalette_99: 1736805097
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

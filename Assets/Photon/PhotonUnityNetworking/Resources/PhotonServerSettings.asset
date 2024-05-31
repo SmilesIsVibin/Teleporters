@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: fed38ccb-d416-4f03-8573-f79140eac37f
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: hk
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - RPC_ActivatePlatform
+  - RPC_ActivateLever
+  - RPC_ClearPlayerParent
+  - RPC_SetPlayerParent
+  - RPC_PlayerChildSet
+  - RPC_PlayerChildExit
+  - RPC_InitiliazeTransform
+  - RPC_CheckPlayer2
+  - RPC_FindPlayers
+  - RPC_CharacterSwapPositon
+  - RPC_ClearParentTransform
+  - RPC_SetParentTransform
+  - RPC_PlayerCheck
+  - RPC_LevelWon
+  - RPC_PlayerRemove
+  - WaitForLevelWin
+  - RPC_DisplayTime
+  - RPC_AddMass
+  - RPC_RemoveMass
+  - RPC_LowerObstacle
+  - RPC_RaiseObstacle
+  - RPC_SetupWinScreen
+  - RPC_GoToNextLevel
+  - RPC_LeaveGame
+  DisableAutoOpenWizard: 1
+  ShowSettings: 0
+  DevRegionSetOnce: 1
